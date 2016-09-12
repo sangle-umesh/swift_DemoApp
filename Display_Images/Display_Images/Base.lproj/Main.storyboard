@@ -35,7 +35,7 @@
                                     <rect key="frame" x="80" y="159" width="247" height="62"/>
                                 </variation>
                             </button>
-                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="Screenshot_2016-02-09-12-09-18.png" translatesAutoresizingMaskIntoConstraints="NO" id="G0g-cv-UNG">
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="G0g-cv-UNG">
                                 <rect key="frame" x="0.0" y="0.0" width="240" height="128"/>
                                 <variation key="heightClass=regular-widthClass=compact" fixedFrame="YES">
                                     <rect key="frame" x="86" y="265" width="241" height="306"/>
@@ -64,7 +64,4 @@
             <point key="canvasLocation" x="235.5" y="352.5"/>
         </scene>
     </scenes>
-    <resources>
-        <image name="Screenshot_2016-02-09-12-09-18.png" width="1080" height="1920"/>
-    </resources>
 </document>
