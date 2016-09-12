@@ -13,6 +13,7 @@
 		C70E311B1D86B7C8005056D9 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C70E31191D86B7C8005056D9 /* Main.storyboard */; };
 		C70E311D1D86B7C8005056D9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C70E311C1D86B7C8005056D9 /* Assets.xcassets */; };
 		C70E31201D86B7C8005056D9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C70E311E1D86B7C8005056D9 /* LaunchScreen.storyboard */; };
+		C70E31281D86BE78005056D9 /* Screenshot_2016-02-09-12-09-18.png in Resources */ = {isa = PBXBuildFile; fileRef = C70E31271D86BE78005056D9 /* Screenshot_2016-02-09-12-09-18.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		C70E311C1D86B7C8005056D9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C70E311F1D86B7C8005056D9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C70E31211D86B7C8005056D9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C70E31271D86BE78005056D9 /* Screenshot_2016-02-09-12-09-18.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Screenshot_2016-02-09-12-09-18.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				C70E31131D86B7C8005056D9 /* AppDelegate.h */,
 				C70E31141D86B7C8005056D9 /* AppDelegate.m */,
 				C70E31161D86B7C8005056D9 /* ViewController.h */,
+				C70E31271D86BE78005056D9 /* Screenshot_2016-02-09-12-09-18.png */,
 				C70E31171D86B7C8005056D9 /* ViewController.m */,
 				C70E31191D86B7C8005056D9 /* Main.storyboard */,
 				C70E311C1D86B7C8005056D9 /* Assets.xcassets */,
@@ -136,6 +139,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C70E31281D86BE78005056D9 /* Screenshot_2016-02-09-12-09-18.png in Resources */,
 				C70E31201D86B7C8005056D9 /* LaunchScreen.storyboard in Resources */,
 				C70E311D1D86B7C8005056D9 /* Assets.xcassets in Resources */,
 				C70E311B1D86B7C8005056D9 /* Main.storyboard in Resources */,
